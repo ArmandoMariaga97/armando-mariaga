@@ -25,9 +25,6 @@ Por comodidad en el formulario de resgitro el usuario puede seleccionar su rol, 
 
 se utilizó MySQL, para la creación de la DB.
 
-tambien se subira el proyecto a un link de prueba
-
-<a href="https://hygapps.com/armando-mariaga">Link de prueba</a>
 
 
 
